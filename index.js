@@ -1,0 +1,1 @@
+let guestText = document.getElementById('guest').textContent = "Away";
